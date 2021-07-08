@@ -4,7 +4,9 @@ title: Analysis of the dependance of the protein content in milk on the cow's di
 subtitle:
 author: "Elena Kocherova"
 date: "`r format(Sys.Date(), format = '%d.%m.%Y')`"
-output: html_document
+output: 
+  md_document:
+          variant: markdown_github
 editor_options: 
 chunk_output_type: console
 ---

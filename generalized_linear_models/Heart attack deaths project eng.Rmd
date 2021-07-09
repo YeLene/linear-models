@@ -18,7 +18,7 @@ knitr::opts_chunk$set(tidy = FALSE,
 
 ### Introduction
 
-This study aimed to identify patient characteristics that might be predictive of death from heart attack using a generalized linear modeling approach.
+This study aimed to identify patient characteristics that might be predictive for death from heart attack using a generalized linear modeling approach.
 
 We are using data from the "heart" dataset ( glm2 package [1]) which holds data on 16949 people who experienced a heart attack. The data is obtained from a double blind randomised clinical trial. Each categorical explanatory variable has 3 categories and the following meanings: AgeGroup groups patients according to their age;
 Delay – according to time from the beginning of the attack to the start of treatment; Severity indicates the

@@ -1,9 +1,9 @@
 ### Introduction
 
 The protein content of cow’s milk is an important characteristic of its
-nutritional value. We investigate how the protein content depends on the
-cow’s diet, taking into account the time after calving, using Milk data
-(Diggle et al. 1994) \[1\] from the nlme package \[2\]. The dataset
+nutritional value. We investigated how the protein content depends on
+the cow’s diet, taking into account the time after calving, using Milk
+data (Diggle et al. 1994) \[1\] from the nlme package \[2\]. The dataset
 describes data on the protein content of cows’ milk in the weeks
 following calving. The cattle are grouped according to whether they are
 fed a diet with barley alone, with barley and lupins, or with lupins

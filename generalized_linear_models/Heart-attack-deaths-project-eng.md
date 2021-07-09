@@ -1,7 +1,7 @@
 ### Introduction
 
 This study aimed to identify patient characteristics that might be
-predictive of death from heart attack using a generalized linear
+predictive for death from heart attack using a generalized linear
 modeling approach.
 
 We are using data from the “heart” dataset ( glm2 package \[1\]) which
